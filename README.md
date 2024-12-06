@@ -8,7 +8,7 @@
 ## Link Video Explicacion Proyecto
 |Video|
 |--|
-|https://drive.google.com/drive/folders/1n5iUy8fS9r7Ni8yiRcCt6YJyKVvMCGk-?usp=drive_link|
+|https://drive.google.com/file/d/1poi6IvXgbTEV4EGZcRioe2r-GD_hRvPT/view?usp=drive_link|
 
 ## Curso JavaScript NetaCad
 |Modulo|Prueba|
