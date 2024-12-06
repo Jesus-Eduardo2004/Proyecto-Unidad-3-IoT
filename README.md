@@ -35,5 +35,5 @@
 ## Coevaluacion
 Nombre del compañero evaluado: Isaac Cano Hernández.
 
-En general fué una buena experiencia el trabajar con mi compañero Isaac, ya que siempre tratamos de ralizar todas las actividades de manera equivalente y tomando todo con humor sin perder de vista nuestros objetivos a la hora de crear nuestro muñeco y ahunque aveces existieron algunos problemas a la hora de la implemetacion del codigo y la creacion del muñeco nunca apartamos la vista de nuestro objetivo arregalando los conflictos que aveces susedian.
+Durante la etapa de Codigo dentro de nuestro muñeco mi compañero isaac tuvo un buen desempeño solo que en los momentos que eran tensos solia estresarse y se bloqueaba, pero al final gracias a que todo el tiempo tratamos de tomar con humor y resolviamos los problemas de una forma en que no afectara nuestra relacion ni arruinara nuestra forma de trabajar en el proyecto siempre tratando de mejorar en nuestro proceso en la creacion del muñeco.
 
