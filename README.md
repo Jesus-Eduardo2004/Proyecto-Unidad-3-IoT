@@ -10,6 +10,17 @@
 |--|
 |https://drive.google.com/file/d/1poi6IvXgbTEV4EGZcRioe2r-GD_hRvPT/view?usp=drive_link|
 
+## Codigos para la funcionalidad
+|Parte|Codigo|
+|--|--|
+|Cuerpo|[Ver código aquí](Codigos/Diablo.py)|
+|Base|[Ver código aquí](Codigos/Base.py)|
+
+## Node-Red
+|Codigo|
+|--|
+|[Ver código aquí](NodeRed/TheDevil.json)|
+
 ## Curso JavaScript NetaCad
 |Modulo|Prueba|
 |--|--|
